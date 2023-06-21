@@ -13,12 +13,7 @@
     margin-right: 10px; 
   }
   .bordered {
-    border: 10px solid lightblue;
-    padding: 100px; 
+    border: 2px solid red;
+    padding: 10px; 
     display: inline-block;
-  }
-  .title {
-    border: 2px solid red; /* Specify border properties */
-    padding: 10px; /* Add padding to create space between text and border */
-    display: inline-block; /* Ensure the border wraps around the text */
   }
