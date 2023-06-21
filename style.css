@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <div class="container">
-    <h1 class="centered-text">My Portfolio</h1>
-  </div>
-</body>
-</html>
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .centered-text {
+    text-align: center;
+  }
