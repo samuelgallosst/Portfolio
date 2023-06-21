@@ -14,6 +14,6 @@
   }
   .bordered {
     border: 2px solid red;
-    padding: 1px; 
+    padding: 3px; 
     display: inline-block;
   }
