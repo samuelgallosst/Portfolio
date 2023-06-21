@@ -10,8 +10,5 @@
   .page-directory {
     list-style: none; 
     display: flex; 
-  }
-  
-  .page-directory li {
-    margin-right: 100px; 
+    margin-right: 10px; 
   }
