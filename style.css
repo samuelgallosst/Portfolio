@@ -7,3 +7,11 @@
   .centered-text {
     text-align: center;
   }
+  .page-directory {
+    list-style: none; 
+    display: flex; 
+  }
+  
+  .page-directory li {
+    margin-right: 10px; 
+  }
