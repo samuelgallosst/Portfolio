@@ -8,9 +8,11 @@
     text-align: center;
   }
   .page-directory {
-    list-style: none; 
+    list-style: none;  
+  }
+  .page-directory {
     display: flex; 
-    margin-right: 10px; 
+    margin-right: 10px;
   }
   .bordered {
     border: 2px dashed red;
