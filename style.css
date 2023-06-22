@@ -24,3 +24,7 @@
     padding: 10px; 
     display: inline-block;
   }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
